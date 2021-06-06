@@ -1,0 +1,18 @@
+body{
+    background-color: #9ede73;
+    text-align: center;
+}
+h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 92px;
+    color:#206a5d ;
+}
+p{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 16px;
+}
+.table1{
+    width:50%;
+    position: relative;
+    left:350px;
+}
